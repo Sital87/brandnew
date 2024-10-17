@@ -1,0 +1,18 @@
+Searching:
+
+1. Linear Search :
+
+Complexity O(N)
+
+2. Sentinel Linear Search:
+
+last element is replaced with the no that is searched then the traditional linear search is followed, the original last no is put back again and checked. Basically it is for index to be checked will never be out of the bounds of the array.
+
+Complexity: O(N)
+
+3. Binary search :
+
+array is portioned using mid value
+demerit: array should be sorted in ascending order
+complexity-O(log N)
+
